@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs & fixin them since 2020<br>📚 I'm currently learning React Redux & Redux Saga<br>🎯 Goals: A Proficient Full Stack Developer.</p>
+<p align="left">✨ Creating bugs & fixin them since 2020<br>📚 I'm currently learning DevOps Tools<br>🎯 Goals: A Proficient Full Stack Developer.</p>
 
 ###
 
